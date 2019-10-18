@@ -1,0 +1,80 @@
+{
+    "log_display_style": [
+        "color: #EAEDED",
+        "background-color: #1C2833"
+    ],
+    "log_line_number_style": [
+        "color: #A6ACAF",
+        "background-color: #424949"
+    ],
+    "existing_log_locations": [
+        "~/De*/**/python_*/**/*.log"
+    ],
+    "log_highlighter": [
+        {
+            "regex": "\\bCRIT\\b",
+            "color": "#C0392B"
+        },
+        {
+            "regex": "\\Error\\b",
+            "color": "#E74C3C"
+        },
+        {
+            "regex": "\\bERROR\\b",
+            "color": "#E74C3C"
+        },
+        {
+            "regex": "\\bINFO\\b",
+            "color": "#5DADE2"
+        },
+        {
+            "regex": "\\binfo\\b",
+            "color": "#5DADE2"
+        },
+        {
+            "regex": "\\bspeech\\b",
+            "color": "#D7BDE2"
+        },
+        {
+            "regex": "\\bsessionId\\b",
+            "color": "#EDBB99"
+        }
+    ],
+    "available_logs_filter": "out",
+    "selected_logs": {
+        "selected_log_item_0": {
+            "text": "outabout_ai_2018-05-02_00-02_v1.log",
+            "statusTip": "/home/adrian/Development/python_tests/python_projects/logXray/outabout_ai_2018-05-02_00-02_v1.log"
+        },
+        "selected_log_item_1": {
+            "text": "outabout_ai_2018-05-02_00-02_v2.log",
+            "statusTip": "/home/adrian/Development/python_tests/python_projects/logXray/outabout_ai_2018-05-02_00-02_v2.log"
+        }
+    },
+    "existing_filters": {
+        "existing_filter_0": {
+            "text": "displayText",
+            "statusTip": ".*displayText.*"
+        },
+        "existing_filter_1": {
+            "text": "speech",
+            "statusTip": ".*speech.*"
+        }
+    },
+    "/home/adrian/Development/python_tests/python_projects/logXray/outabout_ai_2018-05-02_00-02_v1.log": {
+        "search_history": [
+            ""
+        ],
+        "goto_line_history": [
+            1
+        ],
+        "log_filters": {}
+    },
+    "/home/adrian/Development/python_tests/python_projects/logXray/outabout_ai_2018-05-02_00-02_v2.log": {
+        "search_history": [],
+        "goto_line_history": [
+            1
+        ],
+        "log_filters": {}
+    }
+}
